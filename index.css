@@ -1,0 +1,38 @@
+body{
+    background-color: #b2d5ba;
+}
+h1{
+    text-align: center;
+    color: #484848;
+}
+#texto{
+    background-color: #eff3cd;
+    margin-right: 60%;
+}
+p{
+    font-size: 115%;
+    text-align: justify;
+}
+#lista{
+    background-color: #eff3cd;
+    margin-right: 60%;
+}
+li{
+    margin-top: 2%;
+}
+#imagem{
+    width: 25%;
+    border-radius: 13%;
+    margin-left: 75%;
+    margin-bottom: -0.6%;
+}
+.países{
+    width: 20%;
+}
+table,td,th{
+    border: solid;
+    border-color: #000;
+}
+caption{
+    font-size: 150%;
+}
